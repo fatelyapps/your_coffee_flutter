@@ -3,6 +3,10 @@ first test flutter project about Saeco super-automatic espresso coffee machine P
 
 App use Hungarian language, the source about coffee receipt and images found at https://www.philips.hu/c-m-ho/kave/kave-101/kavefajtak-es-gyakran-ismetelt-kerdesek
 
+<img src="screen2.png" height="424">
+<img src="screen1.png" height="424">
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
